@@ -1,6 +1,6 @@
 # SpamBot v1.0
 ## Author: github.com/feboyfierlyan
-## instagram: instagram.com/r6nee.aep
+## instagram: instagram.com/feboyfierlyan404
 ### github: github.com/feboyfierlyan/mytools
 ### nyolong dosa :v, bikin scipt ga gampang!
 
