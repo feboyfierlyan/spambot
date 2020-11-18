@@ -23,9 +23,9 @@ bash install.sh
 sudo bash spambot.sh
 ```
 
-### Requirements (pip, tqdm) :
+### Requirements (pip, pyautogui) :
 ```
 sudo apt install python-pip
-pip install tqdm
+pip3 install pyautogui
 
 ```
