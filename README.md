@@ -1,7 +1,7 @@
 # SpamBot v1.0
 ## Author: github.com/feboyfierlyan
 ## instagram: instagram.com/feboyfierlyan404
-### github: github.com/feboyfierlyan/mytools
+### github: github.com/feboyfierlyan/spambot
 ### nyolong dosa :v, bikin scipt ga gampang!
 
 Ini adalah tools - tools yang biasa ku pake buat basic Ethical Hacking,
